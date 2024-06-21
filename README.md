@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @OrdinaryDeveloper2022
+- 👋 Hi, I’m Sahil Sawant
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning mern stack
 - 💞️ I’m looking to collaborate on web development 
-- 📫 How to reach me sahils.345672020@gmail.com
+- 📫 How to reach me sahilsawant1910@gmail.com
+
 
 <!---
 OrdinaryDeveloper2022/OrdinaryDeveloper2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
